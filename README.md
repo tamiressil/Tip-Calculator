@@ -1,6 +1,6 @@
 # Tip-Calculator
 
-- Lista de afazeres desenvolvida para que o usuário possa colocar suas tarefas diárias e defini-las como feitas ou não.
+-Esse projeto ajuda a determinar quanto deixar de gorjeta ao considerar o valor total da conta, o número de pessoas na mesa e a qualidade do serviço. Você insere essas informações e a calculadora sugere a quantia de gorjeta. Ela é útil para dividir a conta entre várias pessoas de forma justa, levando em conta o serviço recebido.
 - Projeto de JavaScript.
 - Projeto construído durante o curso PROPROFISSÃO do Instituto PROA
 
